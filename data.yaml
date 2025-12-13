@@ -1,0 +1,14 @@
+path: .
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+
+names:
+  0: abyssinian
+  1: bengal
+  2: birman
+  3: bombay
+  4: british_shorthair
+  5: egyptian_mau

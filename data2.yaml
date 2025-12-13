@@ -1,0 +1,18 @@
+path: ./data  # путь к папке data
+train: train/images
+val: val/images
+
+nc: 12  # 12 пород кошек
+names: 
+  - 'Abyssinian'
+  - 'Bengal'
+  - 'Birman'
+  - 'Bombay'
+  - 'British_Shorthair'
+  - 'Egyptian_Mau'
+  - 'Maine_Coon'
+  - 'Persian'
+  - 'Ragdoll'
+  - 'Russian_Blue'
+  - 'Siamese'
+  - 'Sphynx'
